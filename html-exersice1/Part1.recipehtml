@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<!-- <html> -->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Html Demo</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="">
+    </head>
+    <body>
+        <H1>Simple Rainbow Sugar Cookies ✧･ﾟ: *✧･ﾟ:*</H1>
+        <h2> Quick and easy sugar cookies made with only 3 pantry ingredients</h2>
+        <h3> <i> INGREDIENTS </i> </h3>
+    
+        <p> <b> Butter + sugar + flour </b> </p>
+        <ol> • 1 cup unsalted butter , room temperature </ol>
+         <ol>  • 2/3 cup + 3 tablespoons granulated sugar , divided </ol>
+           <ol> •  2 cups + 1 tablespoon all-purpose flour , spooned and leveled </ol>
+        
+        <h4> <i> INSTRUCTIONS</i></h4>
+    <ul> Preheat oven to 325 degrees F. Line 2 large baking sheets with parchment paper.</ul>
+<ul> In a medium bowl, using a handheld electric mixer, beat together butter and 2/3 cup sugar until combined. (It will be a little gritty – that's ok.) </ul>
+<ul> Add in flour and blend well (then blend in the vanilla, if using.) </ul>
+<ul> Using a cookie scoop, roll the dough into 1-inch balls.</ul>
+<ul> Gently roll the balls in the remaining 3 tablespoons of sugar until lightly coated; transfer to the baking sheets 2 inches apart. </ul>
+<ul> With the bottom of a measuring cup or glass, press down on the balls to flatten. Sprinkle with some nonpareils (if using) and lightly press down again just so they stick. (The dough should end up being between an 1/8-1/4 inch thick, so 3/16 to be exact. They will look pretty small in circumference, but they will spread a bit to a normal size cookie.) </ul>
+<ul> Bake for 14-16 minutes or until just slightly golden around the edges and on the bottom.</ul>
+<ul> Remove form the oven and let rest on the baking sheets for at least 10-15 minutes (don't skip this step!) Then eat or transfer to a cooling rack to cool completely.</ul>
+<ul> Top off with rainbow Sprinkles! </ul>
+<h5> Enjoy! </h5>
+
+
+
+
+<a href="https://open.spotify.com/playlist/6hcDbGirPGJS7romlmks5E"> Play some music while you bake! 💌 </a> 
+
+ <h1> Final Product!</h1> 
+
+<img src="https://peasandcrayons.com/wp-content/uploads/2022/04/sprinkle-vanilla-pudding-cookies-recipe-2-500x500.jpg" </img>
+
+
+        <script src="" async defer></script>
+    </body>
+</html>
+
